@@ -1,0 +1,9 @@
+{
+  "name": "Harley extensiones",
+  "iconUrl": "https://avatars.githubusercontent.com/u/107209728?v=4&size=512",
+  "description": "Extensiones CloudStream - AnimeAv1 y Hentaila",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/harley654321/rih1jwfbip6zni/main/pluginlist.json"
+  ]
+}
