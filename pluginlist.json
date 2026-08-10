@@ -12,8 +12,8 @@
     "tvTypes": ["Anime", "AnimeMovie", "OVA"],
     "language": "es",
     "iconUrl": "https://animeav1.com/favicon.ico",
-    "fileSize": null,
-    "fileHash": null
+    "fileSize": 22624,
+    "fileHash": "sha256-90a9d05da321ce092ceec065aa0b4969fac526658436481267c249b5d3c334bb"
   },
   {
     "url": "https://raw.githubusercontent.com/harley654321/rih1jwfbip6zni/main/Hentaila.cs3",
@@ -28,7 +28,7 @@
     "tvTypes": ["NSFW"],
     "language": "es",
     "iconUrl": "https://hentaila.com/favicon.ico",
-    "fileSize": null,
-    "fileHash": null
+    "fileSize": 21137,
+    "fileHash": "sha256-47d7e1434a438871d1cbd8d355a94a64ac303c2cbc24d9bd1215d8e9f7b853d4"
   }
 ]
