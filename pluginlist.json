@@ -2,7 +2,7 @@
   {
     "url": "https://raw.githubusercontent.com/harley654321/rih1jwfbip6zni/main/AnimeAv1.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "apiVersion": 1,
     "name": "AnimeAv1",
     "internalName": "AnimeAv1",
@@ -12,13 +12,13 @@
     "tvTypes": ["Anime", "AnimeMovie", "OVA"],
     "language": "es",
     "iconUrl": "https://animeav1.com/favicon.ico",
-    "fileSize": 20270,
-    "fileHash": "sha256-ab72d1a736050127d96e5840f76a84a63325b328c8ce59151aaa14a23090bd05"
+    "fileSize": 20361,
+    "fileHash": "sha256-1bf1439351117ca5394046ce4d14c56b345d832a4036795ac252d6767a6c24a3"
   },
   {
     "url": "https://raw.githubusercontent.com/harley654321/rih1jwfbip6zni/main/Hentaila.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "apiVersion": 1,
     "name": "Hentaila",
     "internalName": "Hentaila",
@@ -28,7 +28,7 @@
     "tvTypes": ["NSFW"],
     "language": "es",
     "iconUrl": "https://hentaila.com/favicon.ico",
-    "fileSize": 18852,
-    "fileHash": "sha256-0663e0ca1fe2c61b735f172cf4beeea1b9b15a39776d2222cb8abfcf54fa6239"
+    "fileSize": 18959,
+    "fileHash": "sha256-f4dbcb3b098d91e8510c3c8d03d442fd35641fc6bd9886990a9633ffd65a4211"
   }
 ]
