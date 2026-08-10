@@ -2,43 +2,33 @@
   {
     "url": "https://raw.githubusercontent.com/harley654321/rih1jwfbip6zni/main/AnimeAv1.cs3",
     "status": 1,
-    "version": 5,
+    "version": 7,
     "apiVersion": 1,
     "name": "AnimeAv1",
     "internalName": "AnimeAv1",
-    "authors": [
-      "harley654321"
-    ],
+    "authors": ["harley654321"],
     "description": "Anime en español (SUB) desde AnimeAv1.com.",
     "repositoryUrl": "https://github.com/harley654321/cloudstream-extensiones",
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie",
-      "OVA"
-    ],
+    "tvTypes": ["Anime", "AnimeMovie", "OVA"],
     "language": "es",
     "iconUrl": "https://animeav1.com/favicon.ico",
-    "fileSize": 21385,
-    "fileHash": "sha256-79ba59dcaaa390c889a203f3baf22e3ec8186d3cc5e1c62623cb624c095663fb"
+    "fileSize": 19862,
+    "fileHash": "sha256-d0b2e1b9a6495efe6033ca7d3e9fe8112ef82f05a994ffc755fe92cb49316cbf"
   },
   {
     "url": "https://raw.githubusercontent.com/harley654321/rih1jwfbip6zni/main/Hentaila.cs3",
     "status": 1,
-    "version": 5,
+    "version": 7,
     "apiVersion": 1,
     "name": "Hentaila",
     "internalName": "Hentaila",
-    "authors": [
-      "harley654321"
-    ],
+    "authors": ["harley654321"],
     "description": "Hentai en español (SUB) desde Hentaila.com.",
     "repositoryUrl": "https://github.com/harley654321/cloudstream-extensiones",
-    "tvTypes": [
-      "NSFW"
-    ],
+    "tvTypes": ["NSFW"],
     "language": "es",
     "iconUrl": "https://hentaila.com/favicon.ico",
-    "fileSize": 19961,
-    "fileHash": "sha256-7e928d6129848e98b5f7c6f90a54a8adcbe62e669e2d4bb319ce9130377d55b3"
+    "fileSize": 18469,
+    "fileHash": "sha256-8e7a10af62074fcd5745b051437a2b4e7b0df74379cbcf57a2597a015d512f63"
   }
 ]
